@@ -1,3 +1,4 @@
 {
-
+    "name" : "folevo/testcomposer",
+	"minimum-stability": "dev",
 }
