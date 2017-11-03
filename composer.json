@@ -1,5 +1,4 @@
 {
-  "description" : "Symfony 2.7 Page bundle for  stroi website mobile version",
   "type" : "symfony-bundle",
   "homepage": "https://bitbucket.org/alexander_nemanov/stroi-mobile",
   "license" : "MIT",
