@@ -8,20 +8,5 @@
   "authors" : [{
     "name" : "Dzmitry Tsetsiaruk",
     "email" : "test.dzmitry@gmail.com"
-  }],
-  "require" : {
-    "php": ">=5.3.9",
-    "symfony/symfony": "2.7.*"
-  },
-  "suggest": {
-  },
-  "autoload" : {
-    "psr-4" : { "Stroi\\MobileBundle\\" : "" }
-  },
-  "minimum-stability": "dev",
-  "extra" : {
-    "branch-alias" : {
-      "dev-master" : "dev-master"
-    }
-  }
+  }]
 }
