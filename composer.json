@@ -1,3 +1,27 @@
 {
-  "name" : "folevo/testcomposer"
+  "name" : "folevo/testcomposer",
+  "description" : "Symfony 2.7 Page bundle for  stroi website mobile version",
+  "type" : "symfony-bundle",
+  "homepage": "https://bitbucket.org/alexander_nemanov/stroi-mobile",
+  "license" : "MIT",
+  "keywords" : ["mobile", "mobile bundle"],
+  "authors" : [{
+    "name" : "Dzmitry Tsetsiaruk",
+    "email" : "test.dzmitry@gmail.com"
+  }],
+  "require" : {
+    "php": ">=5.3.9",
+    "symfony/symfony": "2.7.*"
+  },
+  "suggest": {
+  },
+  "autoload" : {
+    "psr-4" : { "Stroi\\MobileBundle\\" : "" }
+  },
+  "minimum-stability": "dev",
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "dev-master"
+    }
+  }
 }
