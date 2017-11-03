@@ -1,9 +1,4 @@
 {
   "name" : "alexander_nemanov/stroi-mobile",
   "description" : "Symfony 2.7 Page bundle for  stroi website mobile version",
-  "type" : "symfony-bundle",
-  "authors" : [{
-    "name" : "Dzmitry Tsetsiaruk",
-    "email" : "test.dzmitry@gmail.com"
-  }]
 }
